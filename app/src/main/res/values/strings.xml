@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data Encryption</string>
+    <string name="action_about">About</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_dec">Decrypt</string>
+    <string name="action_enc">Encrypt</string>
+    <string name="action_choose">Choose file</string>
+    <string name="action_cbDeleteFile">Delete original file</string>
+    <string name="action_password">Enter Password</string>
+    <string name="action_inputText">Enter Text To Encrypt</string>
+
+
+</resources>

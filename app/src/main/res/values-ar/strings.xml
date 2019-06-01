@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تشفير البيانات</string>
+    <string name="action_about">حول</string>
+    <string name="action_exit">الخروج</string>
+    <string name="action_dec">فك تشفير</string>
+    <string name="action_enc">تشفير</string>
+    <string name="action_choose">اختر الملف</string>
+    <string name="action_cbDeleteFile">حذف الملف الأصلي</string>
+    <string name="action_password">أدخل كلمة المرور</string>
+    <string name="action_inputText">أدخل النص للتشفير</string>
+</resources>
